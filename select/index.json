@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Resting Power",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-18T04:41:58.153579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Resting Power",
+      "artist": "Mori Calliope, Mori Calliope, Pretty Patterns, Pretty Patterns",
+      "has_synced": true,
+      "path": "select/01_Resting_Power_Mori_Calliope,_Mori_Calliope,_Pretty_Patterns,_Pretty_Patterns.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Resting Power",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Resting_Power_Mori_Calliope.txt"
+    }
+  ]
+}
